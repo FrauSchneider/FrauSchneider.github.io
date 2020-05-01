@@ -88,7 +88,7 @@ subtitle: Was Frau Schneider so im Geheimen macht
         <div><i>Geht auf folgende Seite: </i></div><br>
 
         <audio controls>
-            <source src="http://www.meridianoutpost.com/resources/etools/calculators/morsecode/morsecode_522329e3772377a4614a0f2e76fd78c8.wav" type="audio/wav">
+            <source src="https://raw.githubusercontent.com/FrauSchneider/FrauSchneider.github.io/master/Morse_Code.wav" type="audio/wav">
           </audio>
                 
     </div>
