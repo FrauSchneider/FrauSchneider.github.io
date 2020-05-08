@@ -9,5 +9,3 @@ Meine Lieblingsprogrammiersprachen sind:
 * R
 * C++
 * Python 
-
-Zudem arbeite ich aktiv der deutschsprachigen Wikipedia mit! 

@@ -85,7 +85,7 @@ subtitle: Was Frau Schneider so im Geheimen macht
 <section style="margin-top: 1rem;">
     <div class="solution-container">
                 
-        <div><i>Geht auf folgende Seite: </i></div><br>
+        <div><i>Spielt folgendes ab: </i></div><br>
 
         <audio controls>
             <source src="https://raw.githubusercontent.com/FrauSchneider/FrauSchneider.github.io/master/Morse_Code.wav" type="audio/wav">

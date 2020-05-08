@@ -10,4 +10,4 @@ Ich unterrichte die Fächer Deutsch, Latein und Informatik ... eine verrückte K
 Ein paar Fakten zu mir:
   
 * Meine Lieblingszahl ist die 11 - man kann sie vorwärts und rückwärts lesen.
-* Ich liebe es Rätsel zu erstellen für meine Schüler
+* Ich liebe es Rätsel für meine Schüler zu erstellen
